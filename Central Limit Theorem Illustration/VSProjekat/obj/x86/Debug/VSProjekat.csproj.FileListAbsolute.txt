@@ -1,0 +1,26 @@
+C:\Users\Korisnik\Desktop\VSProjekat\VSProjekat\bin\Debug\VSProjekat.exe
+C:\Users\Korisnik\Desktop\VSProjekat\VSProjekat\bin\Debug\VSProjekat.pdb
+C:\Users\Korisnik\Desktop\VSProjekat\VSProjekat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.Form1.resources
+C:\Users\Korisnik\Desktop\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\VSProjekat\VSProjekat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\VSProjekat\VSProjekat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.exe
+C:\Users\Korisnik\Desktop\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.pdb
+D:\ETF\Semestar 6\Verovatnoca i statistika\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.exe
+D:\ETF\Semestar 6\Verovatnoca i statistika\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.pdb
+D:\ETF\Semestar 6\Verovatnoca i statistika\VSProjekat\VSProjekat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ETF\Semestar 6\Verovatnoca i statistika\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.Form1.resources
+D:\ETF\Semestar 6\Verovatnoca i statistika\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.Properties.Resources.resources
+D:\ETF\Semestar 6\Verovatnoca i statistika\VSProjekat\VSProjekat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ETF\Semestar 6\Verovatnoca i statistika\VSProjekat\VSProjekat\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ETF\Semestar 6\Verovatnoca i statistika\VSProjekat\VSProjekat\bin\Debug\VSProjekat.exe
+D:\ETF\Semestar 6\Verovatnoca i statistika\VSProjekat\VSProjekat\bin\Debug\VSProjekat.pdb
+E:\For Github\VSProjekat\VSProjekat\bin\Debug\VSProjekat.exe
+E:\For Github\VSProjekat\VSProjekat\bin\Debug\VSProjekat.pdb
+E:\For Github\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.Form1.resources
+E:\For Github\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.Properties.Resources.resources
+E:\For Github\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.csproj.GenerateResource.Cache
+E:\For Github\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.csproj.CoreCompileInputs.cache
+E:\For Github\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.exe
+E:\For Github\VSProjekat\VSProjekat\obj\x86\Debug\VSProjekat.pdb
